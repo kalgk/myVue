@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 
-
+```
 # 引入路由，及制定使用规范   
 例：router.js
 # 引入vuex，及制定使用规范 
@@ -35,3 +35,4 @@ npm run build --report
 例：head.vue
 # 基础样式定义
 例：base.less
+```
