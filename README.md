@@ -1,2 +1,2 @@
-# myVue
-vue + vuex + vux + webpack
+# vue
+vue相关脚手架 整理
