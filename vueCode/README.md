@@ -1,4 +1,4 @@
-# patient
+# vue+vuex+vux+webpack
 
 > A Vue.js project
 
