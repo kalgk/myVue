@@ -1,4 +1,4 @@
-# vue+vuex+vux+webpack
+# vue+vux 手机端脚手架
 
 > A Vue.js project
 
